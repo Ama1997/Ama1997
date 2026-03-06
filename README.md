@@ -1,3 +1,4 @@
+![Profile Banner](./profile-banner.png)
 # Hi, I'm Ama Nyarko Acheampong
 
 ## About Me
