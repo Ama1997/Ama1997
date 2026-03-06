@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ What I Build
+##  What I Build
 
 I use data to answer questions and support better decisions. Here are a few projects:
 
@@ -23,7 +23,7 @@ I use data to answer questions and support better decisions. Here are a few proj
 
 ---
 
-## 💻 Skills
+##  Skills
 
 - **Programming**: Python, R  
 - **Data Analysis**: pandas, NumPy, matplotlib, seaborn  
@@ -36,7 +36,7 @@ I use data to answer questions and support better decisions. Here are a few proj
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - Google Advanced Data Analytics – Coursera (Jun 2025)  
 - Artificial Intelligence Foundations: Machine Learning – LinkedIn (May 2025)  
@@ -54,16 +54,10 @@ I use data to answer questions and support better decisions. Here are a few proj
 
 ---
 
-## 🔍 My Focus
+##  My Focus
 
 - Combine economic and energy data to find useful patterns  
 - Build tools and dashboards that communicate clearly  
 - Use public data and APIs to keep insights relevant
 
----
 
-## 🚀 Try It Out
-
-1. Clone a repo:  
-   ```bash
-   git clone https://github.com/Ama1997/Energy-Demand-Analysis.git
