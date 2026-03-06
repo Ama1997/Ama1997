@@ -12,7 +12,7 @@ I am particularly interested in applying data science and econometric methods to
 ---
 ## Research Interests
 
-My research interests focus on the application of data analysis and statistical methods to economic and energy systems. I am particularly interested in understanding how data-driven approaches can support evidence-based decision-making in areas related to energy markets, sustainability, and economic development.
+My research interests focus on the application of data analysis and statistical methods to economic and energy systems. I am particularly interested in understanding how data driven approaches can support evidence-based decision making in areas related to energy markets, sustainability, and economic development.
 
 Key areas of interest include:
 
@@ -60,6 +60,20 @@ Issued by IBM. This program focused on supervised and unsupervised learning, reg
 
 Credential verification  
 https://www.credly.com/users/ama-acheampong.15c58e14
+
+---
+## Certifications
+
+- **Artificial Intelligence Foundations: Machine Learning** – LinkedIn (May 2025)  
+- **Complete Guide to R: Wrangling, Visualizing, and Modeling Data** – LinkedIn (May 2025)  
+- **Excel: Economic Analysis and Data Analytics** – LinkedIn (May 2025)  
+- **Machine Learning** – DeepLearning.AI (May 2025)  
+- **Machine Learning Statistical Foundations** – Wolfram Research (May 2025)  
+- **Power BI Essential Training** – LinkedIn (May 2025)  
+- **Power BI: Dashboards for Beginners** – LinkedIn (May 2025)  
+- **Predictive Analytics: Data Mining** – LinkedIn (May 2025)  
+- **SQL for Data Analysis** – LinkedIn (May 2025)  
+- **SQL: Data Reporting and Analysis** – LinkedIn (May 2025)  
 
 ---
 
