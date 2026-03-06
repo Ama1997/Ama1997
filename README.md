@@ -62,7 +62,6 @@ Credential verification
 https://www.credly.com/users/ama-acheampong.15c58e14
 
 ---
-## Certifications
 
 - **Artificial Intelligence Foundations: Machine Learning** – LinkedIn (May 2025)  
 - **Complete Guide to R: Wrangling, Visualizing, and Modeling Data** – LinkedIn (May 2025)  
