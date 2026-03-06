@@ -1,11 +1,26 @@
 # Hi, I'm Ama Nyarko Acheampong
 
-Economics MSc graduate with a strong interest in **data analytics, machine learning, and energy economics**. I apply data analysis and statistical techniques to explore economic trends, energy systems, and real-world datasets.
+## About Me
 
- I am currently expanding my skills through applied projects using **Python, R, and Power BI**, with a particular focus on **energy markets, climate transition, and economic data analysis**.
+I am an economics graduate with masters degrees in Economics  and a strong interest in applying data analysis and machine learning to economic and energy related challenges. 
+
+I develop data analysis projects using Python, R and Power BI to explore economic indicators, electricity markets, and renewable energy systems. My work focuses on extracting insights from data to better understand economic trends, energy demand, and the factors shaping electricity markets.
+
+I am particularly interested in applying data science and econometric methods to questions related to energy economics, climate transition, and economic policy.
 
 ---
+## Research Interests
 
+My research interests focus on the application of data analysis and statistical methods to economic and energy systems. I am particularly interested in understanding how data-driven approaches can support evidence-based decision-making in areas related to energy markets, sustainability, and economic development.
+
+Key areas of interest include:
+
+- Energy economics and electricity markets  
+- Climate transition and renewable energy systems  
+- Applied econometrics and economic data analysis  
+- Machine learning applications in economic research  
+- Economic policy analysis and data-driven decision making
+- ---
 # Skills & Tools
 
 ### Programming
@@ -47,55 +62,77 @@ https://www.credly.com/users/ama-acheampong.15c58e14
 
 ---
 
-# Featured Projects
+## Selected Research Projects
 
-### Energy Demand Analysis
-Analysis of UK electricity demand, renewable energy generation, and weather data using National Grid ESO and Met Office APIs. The project explores how weather conditions influence electricity demand and renewable generation.
+### Electricity Demand and Weather Analysis in the UK
+This project investigates the relationship between electricity demand, renewable energy generation, and weather conditions in the United Kingdom.
 
-Repository  
+**Data Sources**
+- National Grid ESO API
+- Met Office weather data
+
+**Methods**
+- API data collection
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Data visualisation
+
+**Repository**  
 https://github.com/Ama1997/Energy-Demand-Analysis
 
 ---
 
 ### Dynamics of Electricity Prices
-An analytical project investigating potential determinants of daily electricity prices using a simulated dataset designed to explore electricity market dynamics.
+This project explores potential determinants of daily electricity prices using a simulated dataset designed to study electricity market dynamics.
 
-Repository  
+**Methods**
+- Exploratory data analysis
+- Statistical modelling
+- Data visualisation
+
+**Repository**  
 https://github.com/Ama1997/Dynamics-of-electricity-prices
 
 ---
 
-### Economic Analysis
-Python-based analysis and visualisation of macroeconomic indicators to explore economic trends through data analysis.
+### Economic Indicators Analysis
+This project analyses macroeconomic indicators using Python to explore trends and relationships within economic data.
 
-Repository  
+**Methods**
+- Data cleaning
+- Exploratory data analysis
+- Economic data visualisation
+
+**Repository**  
 https://github.com/Ama1997/Economic-Analysis
 
 ---
 
-### Renewable Energy Analysis
-Exploratory data analysis project completed for the IBM Machine Learning Professional Certificate, focusing on renewable energy datasets.
+### Renewable Energy Data Exploration
+This exploratory data analysis project examines renewable energy datasets to identify patterns in energy production and sustainability indicators.
 
-Repository  
+**Repository**  
 https://github.com/Ama1997/renewable-energy-analysis
 
 ---
 
-### Capstone Project – Google Advanced Data Analytics
-Final project applying data analysis and machine learning techniques to generate insights from real-world data.
+### Data Professionals Survey Dashboard
+Interactive Power BI dashboard analysing survey data from professionals working in the data industry, highlighting trends in salaries, tools, and job roles.
 
-Repository  
-https://github.com/Ama1997/capstone_project
-
----
-
-### Data Professionals Dashboard
-An interactive Power BI dashboard analysing survey data from professionals working in the data industry.
-
-Repository  
+**Repository**  
 https://github.com/Ama1997/data-professionals-dashboard
 
 ---
+
+## Methods
+
+- Exploratory Data Analysis (EDA)
+- Statistical modelling
+- Machine learning
+- Data visualisation
+- API data collection
+
+- ---
 
 # Current Focus
 
