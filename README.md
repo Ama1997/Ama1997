@@ -1,4 +1,4 @@
-# Hi, I’m Ama Acheampong 👋
+# Hi, I’m Ama Acheampong 
 
 [LinkedIn Profile](https://www.linkedin.com/in/ama-acheampong)
 
