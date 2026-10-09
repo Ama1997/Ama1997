@@ -3,24 +3,32 @@
 
 ## About Me
 
-I am an economics graduate with masters degrees in Economics  and a strong interest in applying data analysis and machine learning to economic and energy related challenges. 
+I am a quantitative economist and data analyst with postgraduate degrees in Economics, Energy, Economics and Law, and an academic background in Statistics. My work sits at the intersection of economic analysis, statistical modelling, energy systems and data science, with a focus on using quantitative methods to investigate real-world economic and policy challenges.
 
-I develop data analysis projects using Python, R and Power BI to explore economic indicators, electricity markets, and renewable energy systems. My work focuses on extracting insights from data to better understand economic trends, energy demand, and the factors shaping electricity markets.
+I develop data-driven projects using Python, R and Power BI, applying statistical analysis, econometric techniques and time-series modelling to explore economic performance, electricity demand, renewable energy integration and energy market dynamics. I am interested in translating complex datasets into meaningful insights that support evidence-based research, policy evaluation and decision-making.
 
-I am particularly interested in applying data science and econometric methods to questions related to energy economics, climate transition, and economic policy.
+My broader interests include the distributional effects of economic and energy transitions, the role of data science in applied economic research, and the use of machine learning to strengthen empirical analysis. I am particularly interested in interdisciplinary approaches that connect economic theory, quantitative methods and practical policy questions.
+
+I welcome opportunities to contribute to collaborative research, applied data science projects and interdisciplinary initiatives across economics, energy policy, sustainability and AI-assisted analytical methods.
 
 ---
 ## Research Interests
 
-My research interests focus on the application of data analysis and statistical methods to economic and energy systems. I am particularly interested in understanding how data driven approaches can support evidence-based decision making in areas related to energy markets, sustainability, and economic development.
+My research interests centre on the application of quantitative methods, econometrics and data science to economic, energy and public policy questions. I am particularly interested in how empirical research and computational approaches can improve our understanding of economic behaviour, market dynamics and the wider implications of policy and technological change.
 
 Key areas of interest include:
 
-- Energy economics and electricity markets  
-- Climate transition and renewable energy systems  
-- Applied econometrics and economic data analysis  
-- Machine learning applications in economic research  
-- Economic policy analysis and data-driven decision making
+Energy Economics and Electricity Markets: Energy demand, electricity market dynamics, affordability and the economic implications of energy price fluctuations.
+
+Applied Econometrics and Quantitative Research: Statistical inference, time-series analysis, causal inference and empirical approaches to economic and policy evaluation.
+
+Climate Transition and Renewable Energy: Renewable energy integration, electricity system transitions and the economic dimensions of decarbonisation.
+
+Machine Learning and AI in Economic Research: Applications of machine learning, automated analytical workflows and interpretable computational methods to economic and energy datasets.
+
+Economic Policy and Distributional Analysis: The effects of economic shocks, market changes and regulatory interventions on households, businesses and wider economic outcomes.
+
+Data-Driven Decision-Making: The use of reproducible analytical workflows, data visualisation and quantitative evidence to inform research and policy decisions.
 - ---
 # Skills & Tools
 
