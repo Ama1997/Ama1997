@@ -18,17 +18,17 @@ My research interests centre on the application of quantitative methods, econome
 
 Key areas of interest include:
 
-Energy Economics and Electricity Markets: Energy demand, electricity market dynamics, affordability and the economic implications of energy price fluctuations.
+**Energy Economics and Electricity Markets**: Energy demand, electricity market dynamics, affordability and the economic implications of energy price fluctuations.
 
-Applied Econometrics and Quantitative Research: Statistical inference, time-series analysis, causal inference and empirical approaches to economic and policy evaluation.
+**Applied Econometrics and Quantitative Research**: Statistical inference, time-series analysis, causal inference and empirical approaches to economic and policy evaluation.
 
-Climate Transition and Renewable Energy: Renewable energy integration, electricity system transitions and the economic dimensions of decarbonisation.
+**Climate Transition and Renewable Energy**: Renewable energy integration, electricity system transitions and the economic dimensions of decarbonisation.
 
-Machine Learning and AI in Economic Research: Applications of machine learning, automated analytical workflows and interpretable computational methods to economic and energy datasets.
+**Machine Learning and AI in Economic Research**: Applications of machine learning, automated analytical workflows and interpretable computational methods to economic and energy datasets.
 
-Economic Policy and Distributional Analysis: The effects of economic shocks, market changes and regulatory interventions on households, businesses and wider economic outcomes.
+**Economic Policy and Distributional Analysis**: The effects of economic shocks, market changes and regulatory interventions on households, businesses and wider economic outcomes.
 
-Data-Driven Decision-Making: The use of reproducible analytical workflows, data visualisation and quantitative evidence to inform research and policy decisions.
+**Data-Driven Decision-Making**: The use of reproducible analytical workflows, data visualisation and quantitative evidence to inform research and policy decisions.
 - ---
 # Skills & Tools
 
@@ -158,9 +158,14 @@ https://github.com/Ama1997/data-professionals-dashboard
 
 # Current Focus
 
-I am currently expanding my skills in:
+I am strengthening my applied research and analytical capabilities at the intersection of economics, energy systems and data science, with a focus on:
 
-- Machine learning and deep learning  
-- Applied economic data analysis  
-- Energy market analysis  
-- Data storytelling and dashboard design
+**Machine Learning and AI**: Applying machine learning techniques and computational methods to empirical research and structured data analysis.
+
+**Applied Econometrics and Economic Analysis**: Using statistical modelling, time-series analysis and quantitative methods to investigate economic trends and policy questions.
+
+**Energy Systems and Market Analysis**: Exploring electricity demand, renewable energy integration, energy market dynamics and the economic implications of the energy transition.
+
+**Data Visualisation and Research Communication**: Developing interactive dashboards and clear, evidence-based visualisations to communicate analytical findings to technical and non-technical audiences.
+
+**Reproducible Research and Analytical Workflows**: Building transparent, well-documented projects that support reliable analysis, interpretation and further research.
